@@ -12,7 +12,7 @@ var router = express.Router();
 
 // Initial dummy route for testing
 router.get('/', function(req, res) {
-  res.end('Twitatron');
+  res.end('William');
 });
 
 // Register all our routes
